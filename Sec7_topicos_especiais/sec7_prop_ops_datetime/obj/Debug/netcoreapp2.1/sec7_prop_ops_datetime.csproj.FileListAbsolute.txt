@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\bin\Debug\netcoreapp2.1\sec7_prop_ops_datetime.deps.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\bin\Debug\netcoreapp2.1\sec7_prop_ops_datetime.runtimeconfig.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\bin\Debug\netcoreapp2.1\sec7_prop_ops_datetime.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\bin\Debug\netcoreapp2.1\sec7_prop_ops_datetime.dll
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\bin\Debug\netcoreapp2.1\sec7_prop_ops_datetime.pdb
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\obj\Debug\netcoreapp2.1\sec7_prop_ops_datetime.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\obj\Debug\netcoreapp2.1\sec7_prop_ops_datetime.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\obj\Debug\netcoreapp2.1\sec7_prop_ops_datetime.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\obj\Debug\netcoreapp2.1\sec7_prop_ops_datetime.AssemblyInfo.cs
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\obj\Debug\netcoreapp2.1\sec7_prop_ops_datetime.dll
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_datetime\obj\Debug\netcoreapp2.1\sec7_prop_ops_datetime.pdb

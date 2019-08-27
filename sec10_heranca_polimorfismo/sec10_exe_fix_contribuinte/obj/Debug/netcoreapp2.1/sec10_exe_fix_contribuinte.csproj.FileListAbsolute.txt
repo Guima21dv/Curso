@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\bin\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.deps.json
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\bin\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.runtimeconfig.json
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\bin\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\bin\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.dll
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\bin\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.pdb
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\obj\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\obj\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\obj\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\obj\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.AssemblyInfo.cs
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\obj\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.dll
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_exe_fix_contribuinte\obj\Debug\netcoreapp2.1\sec10_exe_fix_contribuinte.pdb

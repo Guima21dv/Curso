@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\bin\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.deps.json
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\bin\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.runtimeconfig.json
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\bin\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\bin\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.dll
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\bin\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.pdb
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\obj\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\obj\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\obj\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\obj\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.AssemblyInfo.cs
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\obj\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.dll
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_heranca_polimorfismo_aula\obj\Debug\netcoreapp2.1\sec10_heranca_polimorfismo_aula.pdb

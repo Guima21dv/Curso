@@ -1,0 +1,10 @@
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\bin\Debug\netcoreapp2.1\sec7_prop_ops_timespan.deps.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\bin\Debug\netcoreapp2.1\sec7_prop_ops_timespan.runtimeconfig.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\bin\Debug\netcoreapp2.1\sec7_prop_ops_timespan.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\bin\Debug\netcoreapp2.1\sec7_prop_ops_timespan.dll
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\bin\Debug\netcoreapp2.1\sec7_prop_ops_timespan.pdb
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\obj\Debug\netcoreapp2.1\sec7_prop_ops_timespan.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\obj\Debug\netcoreapp2.1\sec7_prop_ops_timespan.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\obj\Debug\netcoreapp2.1\sec7_prop_ops_timespan.AssemblyInfo.cs
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\obj\Debug\netcoreapp2.1\sec7_prop_ops_timespan.dll
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_prop_ops_timespan\obj\Debug\netcoreapp2.1\sec7_prop_ops_timespan.pdb

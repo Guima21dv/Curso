@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\obj\Debug\netcoreapp2.1\sec09_exe_prop01.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\obj\Debug\netcoreapp2.1\sec09_exe_prop01.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\obj\Debug\netcoreapp2.1\sec09_exe_prop01.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\obj\Debug\netcoreapp2.1\sec09_exe_prop01.AssemblyInfo.cs
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\bin\Debug\netcoreapp2.1\sec09_exe_prop01.deps.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\bin\Debug\netcoreapp2.1\sec09_exe_prop01.runtimeconfig.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\bin\Debug\netcoreapp2.1\sec09_exe_prop01.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\bin\Debug\netcoreapp2.1\sec09_exe_prop01.dll
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\bin\Debug\netcoreapp2.1\sec09_exe_prop01.pdb
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\obj\Debug\netcoreapp2.1\sec09_exe_prop01.dll
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exe_prop01\obj\Debug\netcoreapp2.1\sec09_exe_prop01.pdb

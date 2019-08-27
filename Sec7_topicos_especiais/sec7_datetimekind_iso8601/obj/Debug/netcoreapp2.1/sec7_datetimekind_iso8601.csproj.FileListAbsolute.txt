@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\bin\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.deps.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\bin\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.runtimeconfig.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\bin\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\bin\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.dll
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\bin\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.pdb
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\obj\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\obj\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\obj\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\obj\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.AssemblyInfo.cs
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\obj\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.dll
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\sec7_datetimekind_iso8601\obj\Debug\netcoreapp2.1\sec7_datetimekind_iso8601.pdb

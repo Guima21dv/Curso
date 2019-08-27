@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\bin\Debug\netcoreapp2.1\sec11_criando_excecoes.deps.json
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\bin\Debug\netcoreapp2.1\sec11_criando_excecoes.runtimeconfig.json
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\bin\Debug\netcoreapp2.1\sec11_criando_excecoes.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\bin\Debug\netcoreapp2.1\sec11_criando_excecoes.dll
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\bin\Debug\netcoreapp2.1\sec11_criando_excecoes.pdb
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\obj\Debug\netcoreapp2.1\sec11_criando_excecoes.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\obj\Debug\netcoreapp2.1\sec11_criando_excecoes.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\obj\Debug\netcoreapp2.1\sec11_criando_excecoes.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\obj\Debug\netcoreapp2.1\sec11_criando_excecoes.AssemblyInfo.cs
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\obj\Debug\netcoreapp2.1\sec11_criando_excecoes.dll
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_criando_excecoes\obj\Debug\netcoreapp2.1\sec11_criando_excecoes.pdb

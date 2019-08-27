@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\bin\Debug\netcoreapp2.1\sec09_enumeracao.deps.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\bin\Debug\netcoreapp2.1\sec09_enumeracao.runtimeconfig.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\bin\Debug\netcoreapp2.1\sec09_enumeracao.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\bin\Debug\netcoreapp2.1\sec09_enumeracao.dll
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\bin\Debug\netcoreapp2.1\sec09_enumeracao.pdb
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\obj\Debug\netcoreapp2.1\sec09_enumeracao.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\obj\Debug\netcoreapp2.1\sec09_enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\obj\Debug\netcoreapp2.1\sec09_enumeracao.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\obj\Debug\netcoreapp2.1\sec09_enumeracao.AssemblyInfo.cs
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\obj\Debug\netcoreapp2.1\sec09_enumeracao.dll
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_enumeracao\obj\Debug\netcoreapp2.1\sec09_enumeracao.pdb

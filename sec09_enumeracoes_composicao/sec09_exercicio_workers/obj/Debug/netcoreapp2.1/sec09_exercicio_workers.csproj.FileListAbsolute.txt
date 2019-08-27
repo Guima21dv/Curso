@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\bin\Debug\netcoreapp2.1\sec09_exercicio_workers.deps.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\bin\Debug\netcoreapp2.1\sec09_exercicio_workers.runtimeconfig.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\bin\Debug\netcoreapp2.1\sec09_exercicio_workers.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\bin\Debug\netcoreapp2.1\sec09_exercicio_workers.dll
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\bin\Debug\netcoreapp2.1\sec09_exercicio_workers.pdb
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\obj\Debug\netcoreapp2.1\sec09_exercicio_workers.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\obj\Debug\netcoreapp2.1\sec09_exercicio_workers.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\obj\Debug\netcoreapp2.1\sec09_exercicio_workers.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\obj\Debug\netcoreapp2.1\sec09_exercicio_workers.AssemblyInfo.cs
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\obj\Debug\netcoreapp2.1\sec09_exercicio_workers.dll
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_workers\obj\Debug\netcoreapp2.1\sec09_exercicio_workers.pdb

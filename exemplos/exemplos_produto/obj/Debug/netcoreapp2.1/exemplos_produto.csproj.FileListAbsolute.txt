@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\bin\Debug\netcoreapp2.1\exemplos_produto.deps.json
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\bin\Debug\netcoreapp2.1\exemplos_produto.runtimeconfig.json
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\bin\Debug\netcoreapp2.1\exemplos_produto.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\bin\Debug\netcoreapp2.1\exemplos_produto.dll
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\bin\Debug\netcoreapp2.1\exemplos_produto.pdb
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\obj\Debug\netcoreapp2.1\exemplos_produto.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\obj\Debug\netcoreapp2.1\exemplos_produto.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\obj\Debug\netcoreapp2.1\exemplos_produto.AssemblyInfo.cs
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\obj\Debug\netcoreapp2.1\exemplos_produto.dll
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\obj\Debug\netcoreapp2.1\exemplos_produto.pdb
+C:\Users\gguima\source\repos\exemplos\exemplos_produto\obj\Debug\netcoreapp2.1\exemplos_produto.csprojAssemblyReference.cache

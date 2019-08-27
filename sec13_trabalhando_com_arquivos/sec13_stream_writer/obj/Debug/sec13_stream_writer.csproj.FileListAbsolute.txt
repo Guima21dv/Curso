@@ -1,0 +1,6 @@
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_stream_writer\bin\Debug\sec13_stream_writer.exe.config
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_stream_writer\bin\Debug\sec13_stream_writer.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_stream_writer\bin\Debug\sec13_stream_writer.pdb
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_stream_writer\obj\Debug\sec13_stream_writer.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_stream_writer\obj\Debug\sec13_stream_writer.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_stream_writer\obj\Debug\sec13_stream_writer.pdb

@@ -1,0 +1,7 @@
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_directory_directoryinfo\bin\Debug\sec13_directory_directoryinfo.exe.config
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_directory_directoryinfo\bin\Debug\sec13_directory_directoryinfo.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_directory_directoryinfo\bin\Debug\sec13_directory_directoryinfo.pdb
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_directory_directoryinfo\obj\Debug\sec13_directory_directoryinfo.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_directory_directoryinfo\obj\Debug\sec13_directory_directoryinfo.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_directory_directoryinfo\obj\Debug\sec13_directory_directoryinfo.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_directory_directoryinfo\obj\Debug\sec13_directory_directoryinfo.pdb

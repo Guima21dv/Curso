@@ -1,0 +1,10 @@
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\bin\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.deps.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\bin\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.runtimeconfig.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\bin\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\bin\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.dll
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\bin\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.pdb
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\obj\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\obj\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\obj\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.AssemblyInfo.cs
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\obj\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.dll
+C:\Users\gguima\source\repos\Sec7_topicos_especiais\Sec7_inferencia_de_tipos\obj\Debug\netcoreapp2.1\Sec7_inferencia_de_tipos.pdb

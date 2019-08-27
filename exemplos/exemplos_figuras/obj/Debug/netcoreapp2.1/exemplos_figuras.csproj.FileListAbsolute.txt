@@ -1,0 +1,10 @@
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\bin\Debug\netcoreapp2.1\exemplos_figuras.deps.json
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\bin\Debug\netcoreapp2.1\exemplos_figuras.runtimeconfig.json
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\bin\Debug\netcoreapp2.1\exemplos_figuras.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\bin\Debug\netcoreapp2.1\exemplos_figuras.dll
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\bin\Debug\netcoreapp2.1\exemplos_figuras.pdb
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\obj\Debug\netcoreapp2.1\exemplos_figuras.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\obj\Debug\netcoreapp2.1\exemplos_figuras.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\obj\Debug\netcoreapp2.1\exemplos_figuras.AssemblyInfo.cs
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\obj\Debug\netcoreapp2.1\exemplos_figuras.dll
+C:\Users\gguima\source\repos\exemplos\exemplos_figuras\obj\Debug\netcoreapp2.1\exemplos_figuras.pdb

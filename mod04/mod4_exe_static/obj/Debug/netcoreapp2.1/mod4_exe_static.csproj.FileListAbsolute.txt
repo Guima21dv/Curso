@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\bin\Debug\netcoreapp2.1\mod4_exe_static.deps.json
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\bin\Debug\netcoreapp2.1\mod4_exe_static.runtimeconfig.json
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\bin\Debug\netcoreapp2.1\mod4_exe_static.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\bin\Debug\netcoreapp2.1\mod4_exe_static.dll
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\bin\Debug\netcoreapp2.1\mod4_exe_static.pdb
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\obj\Debug\netcoreapp2.1\mod4_exe_static.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\obj\Debug\netcoreapp2.1\mod4_exe_static.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\obj\Debug\netcoreapp2.1\mod4_exe_static.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\obj\Debug\netcoreapp2.1\mod4_exe_static.AssemblyInfo.cs
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\obj\Debug\netcoreapp2.1\mod4_exe_static.dll
+C:\Users\gguima\source\repos\mod04\mod4_exe_static\obj\Debug\netcoreapp2.1\mod4_exe_static.pdb

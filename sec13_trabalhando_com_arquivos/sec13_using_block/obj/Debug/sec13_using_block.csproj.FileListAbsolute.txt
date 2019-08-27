@@ -1,0 +1,7 @@
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_using_block\bin\Debug\sec13_using_block.exe.config
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_using_block\bin\Debug\sec13_using_block.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_using_block\bin\Debug\sec13_using_block.pdb
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_using_block\obj\Debug\sec13_using_block.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_using_block\obj\Debug\sec13_using_block.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_using_block\obj\Debug\sec13_using_block.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_using_block\obj\Debug\sec13_using_block.pdb

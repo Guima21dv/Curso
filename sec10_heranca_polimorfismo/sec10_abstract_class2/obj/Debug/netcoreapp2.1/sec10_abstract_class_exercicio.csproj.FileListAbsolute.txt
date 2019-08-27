@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\bin\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.deps.json
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\bin\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.runtimeconfig.json
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\bin\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\bin\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.dll
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\bin\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.pdb
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\obj\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\obj\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\obj\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\obj\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.AssemblyInfo.cs
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\obj\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.dll
+C:\Users\gguima\source\repos\sec10_heranca_polimorfismo\sec10_abstract_class2\obj\Debug\netcoreapp2.1\sec10_abstract_class_exercicio.pdb

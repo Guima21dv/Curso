@@ -1,0 +1,7 @@
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_fileinfo_file_ioexception\bin\Debug\sec13_fileinfo_file_ioexception.exe.config
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_fileinfo_file_ioexception\bin\Debug\sec13_fileinfo_file_ioexception.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_fileinfo_file_ioexception\bin\Debug\sec13_fileinfo_file_ioexception.pdb
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_fileinfo_file_ioexception\obj\Debug\sec13_fileinfo_file_ioexception.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_fileinfo_file_ioexception\obj\Debug\sec13_fileinfo_file_ioexception.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_fileinfo_file_ioexception\obj\Debug\sec13_fileinfo_file_ioexception.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_fileinfo_file_ioexception\obj\Debug\sec13_fileinfo_file_ioexception.pdb

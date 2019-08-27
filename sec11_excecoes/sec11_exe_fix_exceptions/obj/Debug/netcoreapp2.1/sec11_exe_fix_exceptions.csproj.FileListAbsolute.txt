@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\bin\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.deps.json
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\bin\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.runtimeconfig.json
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\bin\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\bin\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.dll
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\bin\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.pdb
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\obj\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\obj\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\obj\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\obj\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.AssemblyInfo.cs
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\obj\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.dll
+C:\Users\gguima\source\repos\sec11_excecoes\sec11_exe_fix_exceptions\obj\Debug\netcoreapp2.1\sec11_exe_fix_exceptions.pdb

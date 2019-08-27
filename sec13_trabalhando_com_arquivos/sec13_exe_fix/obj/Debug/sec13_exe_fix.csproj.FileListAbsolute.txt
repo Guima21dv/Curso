@@ -1,0 +1,7 @@
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_exe_fix\bin\Debug\sec13_exe_fix.exe.config
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_exe_fix\bin\Debug\sec13_exe_fix.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_exe_fix\bin\Debug\sec13_exe_fix.pdb
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_exe_fix\obj\Debug\sec13_exe_fix.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_exe_fix\obj\Debug\sec13_exe_fix.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_exe_fix\obj\Debug\sec13_exe_fix.exe
+C:\Users\gguima\source\repos\sec13_trabalhando_com_arquivos\sec13_exe_fix\obj\Debug\sec13_exe_fix.pdb

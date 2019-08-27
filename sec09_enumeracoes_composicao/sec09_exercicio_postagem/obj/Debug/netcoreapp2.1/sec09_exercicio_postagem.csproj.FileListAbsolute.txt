@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\bin\Debug\netcoreapp2.1\sec09_exercicio_postagem.deps.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\bin\Debug\netcoreapp2.1\sec09_exercicio_postagem.runtimeconfig.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\bin\Debug\netcoreapp2.1\sec09_exercicio_postagem.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\bin\Debug\netcoreapp2.1\sec09_exercicio_postagem.dll
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\bin\Debug\netcoreapp2.1\sec09_exercicio_postagem.pdb
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\obj\Debug\netcoreapp2.1\sec09_exercicio_postagem.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\obj\Debug\netcoreapp2.1\sec09_exercicio_postagem.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\obj\Debug\netcoreapp2.1\sec09_exercicio_postagem.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\obj\Debug\netcoreapp2.1\sec09_exercicio_postagem.AssemblyInfo.cs
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\obj\Debug\netcoreapp2.1\sec09_exercicio_postagem.dll
+C:\Users\gguima\source\repos\sec09_enumeracoes_composicao\sec09_exercicio_postagem\obj\Debug\netcoreapp2.1\sec09_exercicio_postagem.pdb

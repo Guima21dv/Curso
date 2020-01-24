@@ -1,15 +1,18 @@
 ﻿using Sec14.Entities;
+using sec14_interfaces.Services.Interfaces;
 using System;
 namespace Sec14.Services
 {
-    class RentalService
+    internal class RentalService
     {
         public double PricePerHour { get;private set; }
         public double PricePerDay { get; private set; }
 
-        private BrazilTaxService _brazilTaxService = new BrazilTaxService(); // FORMA INADEQUADA
-        public RentalService(double pricePerHour, double pricePerDay)
+        //private BrazilTaxService _brazilTaxService = new BrazilTaxService(); // FORMA INADEQUADA
+        private readonly ITaxService _taxService;
+        public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService)
         {
+            _taxService = taxService;
             PricePerHour = pricePerHour;
             PricePerDay = pricePerDay;
         }
@@ -27,7 +30,9 @@ namespace Sec14.Services
             {
                 basicPayment = PricePerDay * Math.Ceiling(Duration.TotalDays);
             }
-            c.Invoice = new Invoice(basicPayment, _brazilTaxService.Tax(basicPayment));
+
+            double tax = _taxService.Tax(basicPayment);
+            c.Invoice = new Invoice(basicPayment, tax);
         }
     }
 }

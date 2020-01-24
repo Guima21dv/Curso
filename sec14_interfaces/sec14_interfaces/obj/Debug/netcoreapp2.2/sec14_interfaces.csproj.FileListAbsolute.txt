@@ -1,0 +1,11 @@
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\bin\Debug\netcoreapp2.2\sec14_interfaces.deps.json
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\bin\Debug\netcoreapp2.2\sec14_interfaces.runtimeconfig.json
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\bin\Debug\netcoreapp2.2\sec14_interfaces.runtimeconfig.dev.json
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\bin\Debug\netcoreapp2.2\sec14_interfaces.dll
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\bin\Debug\netcoreapp2.2\sec14_interfaces.pdb
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\obj\Debug\netcoreapp2.2\sec14_interfaces.csprojAssemblyReference.cache
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\obj\Debug\netcoreapp2.2\sec14_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\obj\Debug\netcoreapp2.2\sec14_interfaces.AssemblyInfoInputs.cache
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\obj\Debug\netcoreapp2.2\sec14_interfaces.AssemblyInfo.cs
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\obj\Debug\netcoreapp2.2\sec14_interfaces.dll
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interfaces\obj\Debug\netcoreapp2.2\sec14_interfaces.pdb

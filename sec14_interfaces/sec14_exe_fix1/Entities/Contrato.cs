@@ -19,14 +19,12 @@ namespace sec14_exe_fix1.Entities
             DataContrato = dataContrato;
             ValorTotal = valorTotal;
             QuantidadeParcelas = quantidadeParcelas;
+            Parcelas = new List<Parcela>();
         }
 
-        public void GerarParcelas()
+        public void AdicionarParcela(Parcela parcela)
         {
-            for(int i = 0; i < QuantidadeParcelas; i++)
-            {
-
-            }
+            Parcelas.Add(parcela);
         }
 
         public override string ToString()
@@ -39,8 +37,7 @@ namespace sec14_exe_fix1.Entities
             }
 
             return output;
-            
-
         }
+
     }
 }

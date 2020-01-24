@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Sec14.Entities
 {
-    class Invoice
+    internal class Invoice
     {
         public double BasicPayment { get; set; }
         public double Tax { get; set; }
@@ -17,7 +17,7 @@ namespace Sec14.Entities
 
         public double TotalPayment
         {
-            get { return BasicPayment * Tax; }
+            get { return BasicPayment + Tax; }
         }
 
         public override string ToString()

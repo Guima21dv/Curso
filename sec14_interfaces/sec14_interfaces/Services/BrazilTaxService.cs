@@ -1,6 +1,8 @@
-﻿namespace Sec14.Services
+﻿using sec14_interfaces.Services.Interfaces;
+
+namespace Sec14.Services
 {
-    class BrazilTaxService
+    internal class BrazilTaxService : ITaxService
     {
         public double Tax(double amount)
         {

@@ -1,7 +1,0 @@
-C:\Users\gguima\source\repos\sec14_interfaces\sec14_interfaces\bin\Debug\sec14_interfaces.exe.config
-C:\Users\gguima\source\repos\sec14_interfaces\sec14_interfaces\bin\Debug\sec14_interfaces.exe
-C:\Users\gguima\source\repos\sec14_interfaces\sec14_interfaces\bin\Debug\sec14_interfaces.pdb
-C:\Users\gguima\source\repos\sec14_interfaces\sec14_interfaces\obj\Debug\sec14_interfaces.csprojAssemblyReference.cache
-C:\Users\gguima\source\repos\sec14_interfaces\sec14_interfaces\obj\Debug\sec14_interfaces.csproj.CoreCompileInputs.cache
-C:\Users\gguima\source\repos\sec14_interfaces\sec14_interfaces\obj\Debug\sec14_interfaces.exe
-C:\Users\gguima\source\repos\sec14_interfaces\sec14_interfaces\obj\Debug\sec14_interfaces.pdb

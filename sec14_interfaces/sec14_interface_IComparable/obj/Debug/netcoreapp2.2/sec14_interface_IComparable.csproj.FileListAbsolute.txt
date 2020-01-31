@@ -1,0 +1,11 @@
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\bin\Debug\netcoreapp2.2\sec14_interface_IComparable.deps.json
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\bin\Debug\netcoreapp2.2\sec14_interface_IComparable.runtimeconfig.json
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\bin\Debug\netcoreapp2.2\sec14_interface_IComparable.runtimeconfig.dev.json
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\bin\Debug\netcoreapp2.2\sec14_interface_IComparable.dll
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\bin\Debug\netcoreapp2.2\sec14_interface_IComparable.pdb
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\obj\Debug\netcoreapp2.2\sec14_interface_IComparable.csprojAssemblyReference.cache
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\obj\Debug\netcoreapp2.2\sec14_interface_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\obj\Debug\netcoreapp2.2\sec14_interface_IComparable.AssemblyInfoInputs.cache
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\obj\Debug\netcoreapp2.2\sec14_interface_IComparable.AssemblyInfo.cs
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\obj\Debug\netcoreapp2.2\sec14_interface_IComparable.dll
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_interface_IComparable\obj\Debug\netcoreapp2.2\sec14_interface_IComparable.pdb

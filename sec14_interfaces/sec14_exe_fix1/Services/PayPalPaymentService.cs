@@ -1,7 +1,4 @@
 ﻿using sec14_exe_fix1.Services.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace sec14_exe_fix1.Services
 {
@@ -10,9 +7,14 @@ namespace sec14_exe_fix1.Services
         private const double PorcentagemTaxa = 0.02;
         private const double JuroMensal = 0.01;
 
-        public double CalcularValorParcela(double valor, int mes)
+        public double CalcularJuros(double valor, int mes)
         {
             return valor * JuroMensal * mes;
+        }
+
+        public double CalcularTaxa(double valor)
+        {
+            return valor * PorcentagemTaxa;
         }
     }
 }

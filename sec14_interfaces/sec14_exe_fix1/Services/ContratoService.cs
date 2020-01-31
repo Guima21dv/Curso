@@ -1,8 +1,6 @@
 ﻿using sec14_exe_fix1.Entities;
 using sec14_exe_fix1.Services.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace sec14_exe_fix1.Services
 {
@@ -16,12 +14,15 @@ namespace sec14_exe_fix1.Services
         }
         public void GerarParcelas(Contrato contrato)
         {
-            double baseCalc = contrato.ValorTotal / contrato.QuantidadeParcelas;
+            double baseCalculo = contrato.ValorTotal / contrato.QuantidadeParcelas;
+            double calculoJuros = 0;
+            double valorTotal = 0;
             for (int i = 1; i <= contrato.QuantidadeParcelas; i++)
             {
                 DateTime data = contrato.DataContrato.AddMonths(i);
-                double valorParcela = baseCalc * 
-                Parcela parcela = new Parcela(data, ) );
+                calculoJuros = baseCalculo + _paymentService.CalcularJuros(baseCalculo, i);
+                valorTotal = calculoJuros + _paymentService.CalcularTaxa(calculoJuros);
+                contrato.AdicionarParcela(new Parcela(data, valorTotal));
             }
         }
     }

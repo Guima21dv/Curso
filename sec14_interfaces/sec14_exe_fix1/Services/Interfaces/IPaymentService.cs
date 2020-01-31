@@ -6,6 +6,7 @@ namespace sec14_exe_fix1.Services.Interfaces
 {
     public interface IPaymentService
     {
-        double CalcularValorParcela(double valor, int meses);
+        double CalcularJuros(double valor, int mes);
+        double CalcularTaxa(double valor);
     }
 }

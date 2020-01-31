@@ -1,0 +1,11 @@
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\bin\Debug\netcoreapp2.2\sec14_exe_fix1.deps.json
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\bin\Debug\netcoreapp2.2\sec14_exe_fix1.runtimeconfig.json
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\bin\Debug\netcoreapp2.2\sec14_exe_fix1.runtimeconfig.dev.json
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\bin\Debug\netcoreapp2.2\sec14_exe_fix1.dll
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\bin\Debug\netcoreapp2.2\sec14_exe_fix1.pdb
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\obj\Debug\netcoreapp2.2\sec14_exe_fix1.csprojAssemblyReference.cache
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\obj\Debug\netcoreapp2.2\sec14_exe_fix1.csproj.CoreCompileInputs.cache
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\obj\Debug\netcoreapp2.2\sec14_exe_fix1.AssemblyInfoInputs.cache
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\obj\Debug\netcoreapp2.2\sec14_exe_fix1.AssemblyInfo.cs
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\obj\Debug\netcoreapp2.2\sec14_exe_fix1.dll
+C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec14_interfaces\sec14_exe_fix1\obj\Debug\netcoreapp2.2\sec14_exe_fix1.pdb

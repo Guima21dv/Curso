@@ -9,3 +9,14 @@ C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec15_topicos_especiais_pt2\
 C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\obj\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.AssemblyInfo.cs
 C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\obj\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.dll
 C:\Users\gguimaraes\source\repos\curso csharp\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\obj\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.pdb
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\bin\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.deps.json
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\bin\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.runtimeconfig.json
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\bin\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.runtimeconfig.dev.json
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\bin\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.dll
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\bin\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.pdb
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\obj\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.csprojAssemblyReference.cache
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\obj\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.csproj.CoreCompileInputs.cache
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\obj\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.AssemblyInfoInputs.cache
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\obj\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.AssemblyInfo.cs
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\obj\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.dll
+C:\Users\gguimaraes\source\repos\Curso\sec15_topicos_especiais_pt2\sec15_topicos_especiais_pt2\obj\Debug\netcoreapp2.2\sec15_topicos_especiais_pt2.pdb

@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gguimaraes\\source\\repos\\curso csharp\\Curso\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2.csproj",
+      "projectUniqueName": "C:\\Users\\gguimaraes\\source\\repos\\Curso\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2.csproj",
       "projectName": "sec15_topicos_especiais_pt2",
-      "projectPath": "C:\\Users\\gguimaraes\\source\\repos\\curso csharp\\Curso\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2.csproj",
+      "projectPath": "C:\\Users\\gguimaraes\\source\\repos\\Curso\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2.csproj",
       "packagesPath": "C:\\Users\\gguimaraes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gguimaraes\\source\\repos\\curso csharp\\Curso\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2\\obj\\",
+      "outputPath": "C:\\Users\\gguimaraes\\source\\repos\\Curso\\sec15_topicos_especiais_pt2\\sec15_topicos_especiais_pt2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

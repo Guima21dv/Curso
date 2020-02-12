@@ -7,15 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_comparison", "sec16_l
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_delegates", "sec16_delegates\sec16_delegates.csproj", "{6C9C4282-B4E4-40C5-856E-B8D5B7E812A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sec16_multicast_delegates", "sec16_multicast_delegates\sec16_multicast_delegates.csproj", "{DD129080-83EA-47A1-8FCA-99D05C2C1DB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_multicast_delegates", "sec16_multicast_delegates\sec16_multicast_delegates.csproj", "{DD129080-83EA-47A1-8FCA-99D05C2C1DB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sec16_delegate_predicate", "sec16_delegate_predicate\sec16_delegate_predicate.csproj", "{F8C344E7-2A9B-4B28-8603-8FF3ECD79CA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_delegate_predicate", "sec16_delegate_predicate\sec16_delegate_predicate.csproj", "{F8C344E7-2A9B-4B28-8603-8FF3ECD79CA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sec16_delegate_action", "sec16_delegate_action\sec16_delegate_action.csproj", "{A0994400-28D8-40A6-95E5-32A5762595B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_delegate_action", "sec16_delegate_action\sec16_delegate_action.csproj", "{A0994400-28D8-40A6-95E5-32A5762595B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sec16_delegate_func", "sec16_delegate_func\sec16_delegate_func.csproj", "{ED2B6DC0-9928-4572-B3D2-2D1E02DE5A94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_delegate_func", "sec16_delegate_func\sec16_delegate_func.csproj", "{ED2B6DC0-9928-4572-B3D2-2D1E02DE5A94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sec16_linq", "sec16_linq\sec16_linq.csproj", "{B96AD4FA-7D26-4523-860F-E1E0F63A5959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_linq", "sec16_linq\sec16_linq.csproj", "{B96AD4FA-7D26-4523-860F-E1E0F63A5959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sec16_linq_lambda", "sec16_linq_lambda\sec16_linq_lambda.csproj", "{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B96AD4FA-7D26-4523-860F-E1E0F63A5959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B96AD4FA-7D26-4523-860F-E1E0F63A5959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B96AD4FA-7D26-4523-860F-E1E0F63A5959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

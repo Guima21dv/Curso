@@ -1,4 +1,8 @@
-﻿using System;
+﻿using sec16_exe_fix.Entities;
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.IO;
 
 namespace sec16_exe_fix
 {
@@ -6,7 +10,21 @@ namespace sec16_exe_fix
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Enter full file path: ");
+            string path = Console.ReadLine();
+            Console.Write("Enter salary: ");
+            double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            List<Employee> list = new List<Employee>();
+            using(StreamReader sr = new StreamReader(path))
+            {
+                while (!sr.EndOfStream)
+                {
+                    string[] data = sr.ReadLine().Split(',');
+                    list.Add(new Employee(data[0], data[1], double.Parse(data[2], CultureInfo.InvariantCulture)));
+                }
+            }
+
         }
     }
 }

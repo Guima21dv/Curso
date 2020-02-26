@@ -21,7 +21,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_linq_lambda", "sec16_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec_16_exe_resolvido", "sec_16_exe_resolvido\sec_16_exe_resolvido.csproj", "{3B7A3FEF-C5FF-4359-8091-C1CACC8EA9FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sec16_exe_fix", "sec16_exe_fix\sec16_exe_fix.csproj", "{C0CBD037-3136-41DA-8224-373FFFF271D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_exe_fix", "sec16_exe_fix\sec16_exe_fix.csproj", "{C0CBD037-3136-41DA-8224-373FFFF271D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Datas", "Datas", "{91EBDB69-76DC-48FE-84A8-C8A0D40BDCF3}"
+	ProjectSection(SolutionItems) = preProject
+		exe_fix_datas.txt = exe_fix_datas.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

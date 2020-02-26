@@ -44,16 +44,36 @@ namespace sec16_linq_lambda
 
             };
 
-            IEnumerable<Product> r1 = products.Where(x => x.Category.Tier == 1 && x.Price < 900.0);
+            //IEnumerable<Product> r1 = products.Where(x => x.Category.Tier == 1 && x.Price < 900.0);
+            var r1 =
+                from p in products
+                where p.Category.Id == 1 && p.Price < 900.00
+                select p;
             Print("TIER 1 AND PRICE < 900: ", r1);
             Console.WriteLine();
-            var r2 = products.Where(x => x.Category.Name == "Tools").Select(x => x.Name);
+            //var r2 = products.Where(x => x.Category.Name == "Tools").Select(x => x.Name);
+            var r2 =
+                from p in products
+                where p.Category.Name == "Tools"
+                select p.Name;
             Print("NAMES OF PRODUCTS FROM TOOLS:", r2);
-            var r3 = products.Where(x => x.Name[0] == 'C').Select(x => new { x.Name, x.Price, CategoryName = x.Category.Name });
+            //var r3 = products.Where(x => x.Name[0] == 'C').Select(x => new { x.Name, x.Price, CategoryName = x.Category.Name });
+            var r3 =
+                from p in products
+                where p.Name[0] == 'C'
+                select new { p.Name, p.Price, CategoryName = p.Category.Name };
             Print("NAME STARTED WITH 'C' AND ANONYMOUS OBJECT:", r3);
-            var r4 = products.Where(x => x.Category.Tier == 1).OrderBy(x => x.Price).ThenBy(x => x.Name);
+            //var r4 = products.Where(x => x.Category.Tier == 1).OrderBy(x => x.Price).ThenBy(x => x.Name);
+            var r4 = from p in products
+                     where p.Category.Tier == 1
+                     orderby p.Name
+                     orderby p.Price
+                     select p;
+
             Print("TIER 1 ORDER BY PRICE THEN BY NAME:", r4);
-            var r5 = r4.Skip(2).Take(4);
+            //var r5 = r4.Skip(2).Take(4);
+            var r5 = (from p in r4
+                      select p).Skip(2).Take(4);
             Print("TIER 1 ORDER BY PRICE THEN BY NAME:", r5);
             var r6 = products.First();
             Console.WriteLine("First teste 1: " + r6);
@@ -63,6 +83,30 @@ namespace sec16_linq_lambda
             Console.WriteLine("Single or default teste1: " + r8);
             var r9 = products.Where(x => x.Id == 44).SingleOrDefault();
             Console.WriteLine("Single or default teste2: " + r9);
+            var r10 = products.Max(x => x.Price);
+            Console.WriteLine("MAX Price" + r10);
+            var r11 = products.Min(x => x.Price);
+            Console.WriteLine("MIN Price" + r11);
+            var r12 = products.Where(x => x.Category.Id == 1).Sum(x => x.Price);
+            Console.WriteLine("Category 1 SUM Prices: " + r12);
+            var r13 = products.Where(x => x.Category.Id == 1).Average(x => x.Price);
+            Console.WriteLine("Category 1 Average prices: " + r13);
+            var r14 = products.Where(x => x.Category.Id == 5).Select(x => x.Price).DefaultIfEmpty().Average();
+            Console.WriteLine("Category 5 Average prices secure: " + r14);
+            var r15 = products.Where(x => x.Category.Id == 1).Select(x => x.Price).Aggregate(0.0, (x, y) => x + y);
+            Console.WriteLine("Category 1 aggregate sum: " + r15);
+            //var r16 = products.GroupBy(x => x.Category);
+            var r16 = from p in products
+                      group p by p.Category;
+            foreach(IGrouping<Category, Product> group in r16)
+            {
+                Console.WriteLine("Category " + group.Key.Name + ": ");
+                foreach(Product p in group)
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+            }
 
 
 

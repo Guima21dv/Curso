@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_delegate_func", "sec1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_linq", "sec16_linq\sec16_linq.csproj", "{B96AD4FA-7D26-4523-860F-E1E0F63A5959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sec16_linq_lambda", "sec16_linq_lambda\sec16_linq_lambda.csproj", "{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec16_linq_lambda", "sec16_linq_lambda\sec16_linq_lambda.csproj", "{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sec_16_exe_resolvido", "sec_16_exe_resolvido\sec_16_exe_resolvido.csproj", "{3B7A3FEF-C5FF-4359-8091-C1CACC8EA9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sec16_exe_fix", "sec16_exe_fix\sec16_exe_fix.csproj", "{C0CBD037-3136-41DA-8224-373FFFF271D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F824B04C-F8EB-47BD-B0A1-4C9631EA0EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7A3FEF-C5FF-4359-8091-C1CACC8EA9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7A3FEF-C5FF-4359-8091-C1CACC8EA9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7A3FEF-C5FF-4359-8091-C1CACC8EA9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7A3FEF-C5FF-4359-8091-C1CACC8EA9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CBD037-3136-41DA-8224-373FFFF271D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CBD037-3136-41DA-8224-373FFFF271D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CBD037-3136-41DA-8224-373FFFF271D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CBD037-3136-41DA-8224-373FFFF271D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
